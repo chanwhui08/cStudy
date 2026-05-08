@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Solve_KDH.vcxproj" Id="3dbf3fb1-48d2-4de4-8e8e-dc850e53dbaf" />
+</Solution>
