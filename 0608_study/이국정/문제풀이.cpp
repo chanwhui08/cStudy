@@ -45,7 +45,7 @@ using namespace std;
 
 int main(void)
 {
-	srand((unsigned int)time(NULL));
+	srand((unsigned int)time(NULL)); 
 	int ran = rand() % 100 + 1;
 	int count = 0;
 	int user;
