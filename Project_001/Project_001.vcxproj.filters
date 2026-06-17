@@ -15,25 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Solve_001.c">
+    <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Solve_002.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Solve_004.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Solve_003.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Solve_005.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Solve_006.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="test.c">
+    <ClCompile Include="class.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -7,7 +7,6 @@ int main(void)
     int size;
     size = sizeof(arr) / sizeof(int);
 
-    
     printf("%d\n", binary_search(arr, 0, size - 1, size, 5));
     return 0;
 }
@@ -19,14 +18,14 @@ int binary_search(int *arr, int start, int end, int size, int target)
 
     while(1)
     {
-       
+
         if(start > end)
         {
             value = -1;
             break;
         }
 
-        center = (start + end) / 2;
+        center = (start + end) / 2; 
 
         if(arr[center] == target)
         {
@@ -35,7 +34,7 @@ int binary_search(int *arr, int start, int end, int size, int target)
         }
         else if(arr[center] > target)
         {
-              end = center - 1;          
+              end = center - 1;    
         }
         else
         {
