@@ -6,3 +6,4 @@ Release/
 *.obj
 *.exe
 *.pdb
+.vscode/
